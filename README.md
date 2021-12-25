@@ -1,4 +1,4 @@
-# Sorting the stack
+# Developer hell
 
 In this project, a simple 2D game was implemented about a developer who is in a hurry to get down to work, but first he needs to solve a more important problem!
 The entire visual part is fully supported by the minilibx library for C
