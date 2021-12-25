@@ -17,6 +17,7 @@ The game can accept any valid card created by the user, and it looks like this:
     "0" is the play space
     "P" is the player
     "C" is a coin
+    "E" is a exit
 
 ## Technologies
 
